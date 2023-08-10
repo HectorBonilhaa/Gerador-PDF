@@ -55,6 +55,6 @@
 
   <h2>Conclusão</h2>
 
-  <p>Este projeto demonstra como usar o Jupyter Notebook para otimizar o seu tempo. Você pode adaptar esses passos para evoluir ainda mais esse código e deixá-lo ainda mais dinâmico, agregando ainda mais para o seu negócio</p>
+  <p>Este projeto demonstra como usar o Jupyter Notebook para otimizar o seu tempo. Você pode adaptar esses passos para evoluir ainda mais esse código e deixá-lo mais dinâmico, agregando valor para o seu negócio</p>
 </body>
 </html>
